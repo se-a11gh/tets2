@@ -11,4 +11,7 @@
     text-align: center;
     padding-top: 120px;
     box-sizing: border-box;
+    color:white;
+    border-radius: 20px;
+    background-color: rgb(206, 58, 58);
 }
