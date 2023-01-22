@@ -4,4 +4,7 @@
     height: 300px;
     font-size: 35px;
     font-weight: bold;
+    color:white;
+    border-radius: 20px;
+    background-color: rgb(206, 58, 58);
 }
