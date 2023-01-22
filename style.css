@@ -1,7 +1,14 @@
 .block {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     border: 1px solid red;
     width: 50%;
     height: 300px;
     font-size: 35px;
     font-weight: bold;
+    text-align: center;
+    padding-top: 120px;
+    box-sizing: border-box;
 }
