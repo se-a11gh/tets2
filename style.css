@@ -5,13 +5,21 @@
     transform: translate(-50%, -50%);
     border: 1px solid red;
     width: 50%;
-    height: 300px;
+    height: 175px;
     font-size: 35px;
     font-weight: bold;
     text-align: center;
-    padding-top: 120px;
+    padding-top: 65px;
     box-sizing: border-box;
     color:white;
     border-radius: 20px;
     background-color: rgb(206, 58, 58);
+    box-shadow: 0 64px 137px -52px red;
+    cursor: pointer;
+}
+
+.block:active{
+    box-shadow:none;
+    background-color: white;
+    color:rgb(206, 58, 58);
 }
